@@ -6,7 +6,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using DailyBlogger.Models;
 
-namespace Lab2_1_AspNetMVC_DailyBlogger.Controllers
+namespace DailyBlogger.Controllers
 {
     public class BlogController : Controller
     {
